@@ -1,0 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.page1 {
+  background: linear-gradient(to right, #ffecd2, #fcb69f);
+  color: #333;
+}
+
+.page2 {
+  background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+  color: #222;
+}
+
+.container {
+  padding: 40px;
+}
+
+img {
+  width: 300px;
+  border-radius: 15px;
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
